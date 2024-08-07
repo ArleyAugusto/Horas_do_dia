@@ -12,12 +12,12 @@ header {
 }
 
 section {
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 7px;
     padding: 15px;
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.514);
+    box-shadow: 3px 3px 10px #00000083;
 }
 
 footer {
@@ -25,5 +25,15 @@ footer {
     text-align: center;
     font-style: italic;
     font-size: 14pt;
+    
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+img#imagem {
+    height: 210px;
     
 }
